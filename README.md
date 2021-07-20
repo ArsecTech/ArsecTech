@@ -17,7 +17,7 @@ I'm Full Stack Developer Web & mobile
 * Raspberry pi
 
 
-#### My languages
+#### My Programming languages
 * CSharp
 * Java
 * Python
