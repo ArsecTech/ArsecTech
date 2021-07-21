@@ -8,12 +8,7 @@ I'm Full Stack Developer Web & mobile
 * Linux
 * Open source projects
 * Programming
-* Security
-
-#### Geeks
-* Coding
-* Security
-* Linux
+* Security 
 
  
 
