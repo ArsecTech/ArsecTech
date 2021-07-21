@@ -11,21 +11,11 @@ I'm Full Stack Developer Web & mobile
 * Security
 
 #### Geeks
-* Asp.net Core
 * Coding
+* Security
 * Linux
-* Raspberry pi
 
-
-#### My Programming languages
-* CSharp
-* Java
-* Python
-
-#### My languages
-* Turkish
-* English
-* Persian
+ 
 
 <div align="center">
 
