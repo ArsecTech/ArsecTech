@@ -10,6 +10,17 @@ I'm Full Stack Developer Web & mobile
 * Programming
 * Security 
 
+
+- 🔭 I’m currently working on **IOT Project**
+
+- 👨‍💻 All of my projects are available at [github.com/ArsecTech](github.com/ArsecTech)
+
+- 💬 Ask me about **Anything =)**
+
+- 📫 How to reach me **arshia.ghaffarian003@gmail.com**
+
+- ⚡ Fun fact **Earth is Not Flat**
+
  
 
 <div align="center">
