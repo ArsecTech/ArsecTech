@@ -13,8 +13,7 @@ I'm Full Stack Developer Web & mobile
  
 
 <div align="center">
-
- <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArsecTech&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ 
  
  <center>
     <table>
@@ -37,3 +36,13 @@ I'm Full Stack Developer Web & mobile
 
 
 </div>
+
+
+## Github Trophies: :🏆️
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ArsecTech&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="ArsecTech points"/>
+</p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArsecTech&theme=react-dark)  
+
