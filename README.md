@@ -4,14 +4,9 @@
 I'm Full Stack Developer Web & mobile 
 
 
-#### Favorites
-* Linux
-* Open source projects
-* Programming
-* Security 
 
 
-- 🔭 I’m currently working on **IOT Project**
+- 🔭 I’m currently working on **IOT , WEB , Android , Securety Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/ArsecTech](github.com/ArsecTech)
 
