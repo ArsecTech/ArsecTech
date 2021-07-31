@@ -1,7 +1,9 @@
-# HI, My name is Arshia <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
-### Profile
+<h1 align="center"> HI, My name is Arshia <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"</h1>
+<h3 align="center"> 
 
 I'm Full Stack Developer Web & mobile 
+ 
+ </h3>
 
 
 
