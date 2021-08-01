@@ -8,7 +8,7 @@ I'm Full Stack Developer Web & mobile
 
 
 
-- 🔭 I’m currently working on **IOT , WEB , Android , Securety Projects**
+- 🔭 I’m currently working on **IOT , WEB , Android , Security Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/ArsecTech](github.com/ArsecTech)
 
