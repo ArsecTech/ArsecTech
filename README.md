@@ -1,13 +1,9 @@
 <h1 align="center"> HI, My name is Arshia <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"</h1>
 <h3 align="center"> 
 
-I'm Full Stack Developer
+I'm Software Engineer
  
- </h3>
-
-
- ![Profile views](https://gpvc.arturio.dev/ArsecTech)
-
+ </h3 
 
 
 - 🔭 I’m currently working on **IOT , WEB , Android , Security Projects**
@@ -41,8 +37,6 @@ I'm Full Stack Developer
   
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arsec/ArsecTech/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshia.ghaffarian003@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arsectech/)
- 
 
 
 </div>
@@ -53,6 +47,3 @@ I'm Full Stack Developer
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ArsecTech&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="ArsecTech points"/>
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArsecTech&theme=react-dark)  
-
